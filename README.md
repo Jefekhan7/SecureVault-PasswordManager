@@ -21,5 +21,3 @@ This project was created as a semester project and is intended for learning purp
 ## Repository
 
 Feel free to explore or contribute.
-
-]
