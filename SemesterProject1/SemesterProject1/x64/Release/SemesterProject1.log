@@ -1,0 +1,6 @@
+﻿  SemesterProject1.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 813 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SemesterProject1.vcxproj -> C:\MyProjects\SemesterProject1\x64\Release\SemesterProject1.exe
